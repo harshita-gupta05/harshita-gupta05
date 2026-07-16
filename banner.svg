@@ -17,8 +17,8 @@
 <polygon points="0,500 0,350 180,390 340,310 530,390 760,260 980,360 1190,260 1500,320 1500,500" fill="#170320"/>
 <text x="750" y="215" text-anchor="middle" font-size="82" font-family="Arial Black,Arial" fill="white" filter="url(#glow)">HARSHITA GUPTA</text>
 <g>
-<text x="1500" y="320" font-size="22" font-family="Segoe UI" fill="white">
-Data Analyst • B.Tech Artificial Intelligence &amp; Data Science • Open Source Contributor
+<text x="1500" y="320" font-size="45" font-family="Segoe UI" fill="white">
+Aspiring Data Analyst • B.Tech Artificial Intelligence &amp; Data Science • Open Source Contributor
 <animate attributeName="x" from="1500" to="-1400" dur="14s" repeatCount="indefinite"/>
 </text>
 </g>
