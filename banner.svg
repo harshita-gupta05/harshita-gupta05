@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#12001f"/>
+<stop offset="60%" stop-color="#4b0f73"/>
+<stop offset="100%" stop-color="#ff5db1"/>
+</linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1500" height="500" fill="url(#bg)"/>
+<circle cx="1220" cy="90" r="42" fill="white" opacity=".9"/>
+<g fill="white">
+<circle cx="90" cy="70" r="2"/><circle cx="250" cy="110" r="2"/><circle cx="460" cy="50" r="2"/>
+<circle cx="700" cy="90" r="2"/><circle cx="920" cy="60" r="2"/><circle cx="1090" cy="130" r="2"/>
+<circle cx="1360" cy="70" r="2"/>
+</g>
+<polygon points="0,500 0,350 180,390 340,310 530,390 760,260 980,360 1190,260 1500,320 1500,500" fill="#170320"/>
+<text x="750" y="215" text-anchor="middle" font-size="82" font-family="Arial Black,Arial" fill="white" filter="url(#glow)">HARSHITA GUPTA</text>
+<text x="750" y="270" text-anchor="middle" font-size="28" font-family="Segoe UI" fill="#ffe4f4">Data Analyst</text>
+<g>
+<text x="1500" y="320" font-size="22" font-family="Segoe UI" fill="white">
+Data Analyst • B.Tech Artificial Intelligence &amp; Data Science • Open Source Contributor
+<animate attributeName="x" from="1500" to="-1400" dur="14s" repeatCount="indefinite"/>
+</text>
+</g>
+</svg>
