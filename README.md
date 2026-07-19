@@ -81,7 +81,7 @@ Artificial Intelligence & Data Science Student | Python Developer | Tech Enthusi
     <img src="https://img.shields.io/badge/LinkedIn-7E22CE?style=for-the-badge&logo=linkedin&logoColor=blue"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:himanshibedwal789@gmail.com">
+  <a href="mailto:harshita452022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C026D3?style=for-the-badge&logo=gmail&logoColor=blue"/>
   </a>
   &nbsp;&nbsp;
